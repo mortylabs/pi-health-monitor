@@ -20,7 +20,6 @@ Usage:
 """
 
 import logging
-import os
 import socket
 import sys
 from io import StringIO
